@@ -21,5 +21,3 @@ https://tools.ietf.org/html/rfc6454
 
 https://tools.ietf.org/html/rfc5849
 
-http://www.iana.org/assignments/message-headers/message-headers.xhtml
-
