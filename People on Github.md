@@ -9,8 +9,13 @@ date: 8/19/2016
 github: [Pete Hunt](https://github.com/petehunt)
 Web presence: http://azat.co/
 How: Researching react. Stumbled upon https://github.com/petehunt/react-howto. 
-PreviouslyKnown: Yes. Throught react.
-date: 8/19/2016
+PreviouslyKnown: Yes. Through react.
+date: 8/20/2016
 
-
+#### Discovery
+github: [Addy Osmani](https://github.com/addyosmani)
+Web presence: https://addyosmani.com/
+How: Re-Researching Yeoman. 
+PreviouslyKnown: Yes. Through https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html
+date: 8/21/2016
 
