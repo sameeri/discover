@@ -26,3 +26,8 @@ Saibaba Vinayakaya Namaha! Saraswati Devi
 * https://en.wikipedia.org/wiki/Control_flow
 * https://en.wikipedia.org/wiki/Abstraction_(software_engineering)
 * https://en.wikipedia.org/wiki/Abstraction_principle_(computer_programming)
+
+* https://en.wikipedia.org/wiki/Programming_paradigm
+* http://cs.lmu.edu/~ray/notes/paradigms/
+* https://www.info.ucl.ac.be/~pvr/paradigms.html
+* https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
