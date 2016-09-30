@@ -43,3 +43,9 @@ Saibaba Vinayakaya Namaha! Saraswati Devi
 * https://en.wikipedia.org/wiki/Timeline_of_programming_languages
 
 * https://www.quora.com/How-exactly-does-a-computer-program-work
+
+* https://en.wikipedia.org/wiki/Architectural_pattern
+* https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+* http://pubs.opengroup.org/architecture/togaf8-doc/arch/
+* http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf
+
