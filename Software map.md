@@ -13,7 +13,8 @@ Saibaba Vinayakaya Namaha! Saraswati Devi
 
 * https://en.wikipedia.org/wiki/Computer_program
 * https://en.wikipedia.org/wiki/Programming_language
-* https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+
+
 * https://en.wikipedia.org/wiki/Syntax_(programming_languages)
 * https://en.wikipedia.org/wiki/Semantics_(computer_science)
 * https://en.wikipedia.org/wiki/Data_type
@@ -31,3 +32,10 @@ Saibaba Vinayakaya Namaha! Saraswati Devi
 * http://cs.lmu.edu/~ray/notes/paradigms/
 * https://www.info.ucl.ac.be/~pvr/paradigms.html
 * https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+
+* https://en.wikipedia.org/wiki/Lists_of_programming_languages
+* https://en.wikipedia.org/wiki/List_of_programming_languages_by_type
+* https://en.wikipedia.org/wiki/List_of_concurrent_and_parallel_programming_languages
+* https://en.wikipedia.org/wiki/List_of_reflective_programming_languages_and_platforms
+* https://en.wikipedia.org/wiki/Constraint_programming#Some_languages_that_support_constraint_programming
+* https://en.wikipedia.org/wiki/Timeline_of_programming_languages
