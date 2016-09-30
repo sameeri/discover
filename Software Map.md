@@ -50,3 +50,5 @@ Saibaba Vinayakaya Namaha! Saraswati Devi
 * http://pubs.opengroup.org/architecture/togaf8-doc/arch/
 * http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf
 
+
+https://www.itu.dk/people/sestoft/plc/
