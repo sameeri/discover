@@ -51,4 +51,5 @@ Saibaba Vinayakaya Namaha! Saraswati Devi
 * http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf
 
 
-https://www.itu.dk/people/sestoft/plc/
+* https://www.itu.dk/people/sestoft/plc/
+* http://norvig.com/21-days.html
