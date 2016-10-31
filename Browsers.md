@@ -32,6 +32,8 @@ https://www.chromium.org/developers
 
 https://chromium.googlesource.com/chromium/src/+/lkgr/net/docs/life-of-a-url-request.md
 
+https://chromium.googlesource.com/chromium/src/+/lkgr/net/docs/crash-course-in-net-internals.md
+
 #### Chrome Urls
 
 http://www.thegeekstuff.com/2011/10/google-chrome-commands
