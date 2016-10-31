@@ -48,6 +48,8 @@ http://www.codeproject.com/Articles/22642/What-Every-Computer-Programmer-Should-
 
 https://msdn.microsoft.com/en-us/library/windows/hardware/ff554690(v=vs.85).aspx
 
+https://msdn.microsoft.com/en-us/library/windows/hardware/ff557560(v=vs.85).aspx
+
 ### Interesting Articles
 
 http://www.codeproject.com/Articles/559385/Custom-Controls-in-Win32-API-The-Basics
