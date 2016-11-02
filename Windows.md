@@ -57,3 +57,18 @@ https://msdn.microsoft.com/en-us/library/windows/hardware/ff553208(v=vs.85).aspx
 ### Interesting Articles
 
 http://www.codeproject.com/Articles/559385/Custom-Controls-in-Win32-API-The-Basics
+
+
+### Tools
+
+Spy ++
+
+Dependency Walker
+
+SysInternals suite
+
+Windows SDK tools
+
+Windows DDK tools
+
+
