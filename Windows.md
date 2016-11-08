@@ -15,12 +15,16 @@ https://xavierantony.wordpress.com/2010/08/24/windows-messaging-architecture/
 
 ### Windows API
 
+Application programs access the Windows API system functions to do things. Most of this is abstracted away by frameworks, but it is very import to understand the notion of the Windows API and the various services/functions it provides.
+
 [Windows API](https://msdn.microsoft.com/en-us/library/windows/desktop/hh920508(v=vs.85).aspx)
 
 [Windows Data Types](https://msdn.microsoft.com/en-us/library/windows/desktop/aa383751(v=vs.85).aspx)
 
 
 ### Windows Native Programming
+
+Not everyone programs in .NET languages. Some develop in C, C++. Others use the 'newer' languages. It depends. It depends on the problem that people are trying to solve. When it comes to developing Windows Apps, core desktop apps use C & C++. In addition to the widely used .NET and related frameworks such as WPF. The Windows native programming brings in to light the Architecture of Windows that is hidden away to the .NET realm.
 
 [Technology choices for Windows App development](https://msdn.microsoft.com/en-us/library/windows/desktop/ee663266.aspx)
 
@@ -46,13 +50,29 @@ http://www.codeproject.com/Articles/22642/What-Every-Computer-Programmer-Should-
 
 ### Windows Driver Development
 
+What is a Windows Driver? How does the Kernel communicate with the drivers? What are I/O request packets? What are software drivers?
+How to write a driver? Who provides drivers for the devices we use? What are the various driver framework models?
+
+These are important things to know, as they can teach us more about how the OS works, how the kernel works and how core building blocks are created and tested.
+
 https://msdn.microsoft.com/en-us/library/windows/hardware/ff554690(v=vs.85).aspx
 
 https://msdn.microsoft.com/en-us/library/windows/hardware/ff557560(v=vs.85).aspx
 
 ### Kernel mode Architecture
 
+The `kernel` is the most significant part of the OS. Understand the kernel, and understand the system.
+
 https://msdn.microsoft.com/en-us/library/windows/hardware/ff553208(v=vs.85).aspx
+
+### Windows Registry
+
+Oh that! That is stored in the Registry. Don't touch the registry. You will f. the system up! What the hell is the registry and why is it so important and so mysterious? 
+
+It is time to understand the simple `object` database that stores data in `key-value` pairs.
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms724871(v=vs.85).aspx
+
 
 ### Interesting Articles
 
