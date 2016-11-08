@@ -74,6 +74,21 @@ It is time to understand the simple `object` database that stores data in `key-v
 https://msdn.microsoft.com/en-us/library/windows/desktop/ms724871(v=vs.85).aspx
 
 
+### Handles and Objects & the Object Manager
+
+OS manages resources. OS is code. How do we represent the notion of some resource. Physical or otherwise. Enter `Objects`. Files, Sockets, Processes, Threads & more are represented as Objects. The `Object manager` is the guy who manages all the objects and in a program system resources are all accessed by obtaining `handles` to objects.
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms724457(v=vs.85).aspx
+
+### System Services
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ee663297(v=vs.85).aspx
+
+### Windows Networking
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ee663286(v=vs.85).aspx
+
+
 ### Interesting Articles
 
 http://www.codeproject.com/Articles/559385/Custom-Controls-in-Win32-API-The-Basics
