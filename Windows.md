@@ -1,3 +1,14 @@
+
+### Windows Fundamentals (From a programming standpoint)
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms632597(v=vs.85).aspx
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms632599(v=vs.85).aspx
+
+### WinMain - Entry point
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms633559(v=vs.85).aspx
+
 ### Messaging
 
 Events, Messaging, Messages & the Message loop are the core concepts of the Windows Architecture. These are never discussed & never surface up, untill you choose to program at the bare metal level. This is how the OS actually works and it is indeed important to understand these elements.
