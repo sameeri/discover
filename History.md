@@ -30,6 +30,12 @@ https://www.cs.virginia.edu/~evans/greatworks/shannon38.pdf
 https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication
 http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
 
+### John Von Nuemann
+
+https://en.wikipedia.org/wiki/John_von_Neumann
+https://library.ias.edu/files/Prelim_Disc_Logical_Design.pdf
+https://github.com/warrenm/von-neumann-papers/blob/master/Logical%20design%20of%20an%20electronic%20computing%20instrument/Logical%20design%20of%20an%20electronic%20computing%20instrument.pdf
+
 
 ### IBM 650
 
