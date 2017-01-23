@@ -10,6 +10,8 @@ http://www.computerhistory.org/timeline/1933/
 
 https://www.computer.org/csdl/mags/an/index.html
 
+https://en.wikipedia.org/wiki/Category:Computer-related_introductions_in_1944
+
 
 ### George Boole
 https://en.wikipedia.org/wiki/George_Boole
