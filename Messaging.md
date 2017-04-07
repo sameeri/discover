@@ -14,3 +14,7 @@
 [ESB Re-examined](https://www.ibm.com/developerworks/websphere/techjournal/1105_flurry/1105_flurry.html)
 
 [IBM on ESB](https://www.ibm.com/Search/?q=ESB&lnk=mhsrch&v=18&en=utf&lang=en&cc=us&sn=dw&dws=dw&hpp=20)
+
+[Vivek Ranadive](https://www.tibco.com/blog/2013/01/25/a-look-back-vivek-ranadive-and-tibco)
+
+[Vivek Ranadive Bio](https://www.youtube.com/watch?v=6euZD9_B8cE)
