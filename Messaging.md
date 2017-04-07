@@ -20,3 +20,5 @@
 [Vivek Ranadive Bio](https://www.youtube.com/watch?v=6euZD9_B8cE)
 
 [MQ Series](https://en.wikipedia.org/wiki/IBM_WebSphere_MQ)
+
+[MSMQ](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing)
