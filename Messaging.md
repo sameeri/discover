@@ -22,3 +22,5 @@
 [MQ Series](https://en.wikipedia.org/wiki/IBM_WebSphere_MQ)
 
 [MSMQ](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing)
+
+[Understanding MSMQ](https://technet.microsoft.com/en-us/library/cc770387(v=ws.11).aspx)
