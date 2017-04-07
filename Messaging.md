@@ -18,3 +18,5 @@
 [Vivek Ranadive](https://www.tibco.com/blog/2013/01/25/a-look-back-vivek-ranadive-and-tibco)
 
 [Vivek Ranadive Bio](https://www.youtube.com/watch?v=6euZD9_B8cE)
+
+[MQ Series](https://en.wikipedia.org/wiki/IBM_WebSphere_MQ)
