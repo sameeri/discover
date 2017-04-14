@@ -36,4 +36,6 @@
 
 [Management Plugin](https://www.rabbitmq.com/management.html)
 
+[Customize Windows Environment variables](https://www.rabbitmq.com/configure.html#customise-windows-environment)
+
 [Cloud AMQP blog posts](https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
