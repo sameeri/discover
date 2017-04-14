@@ -30,7 +30,7 @@
 
 ### RabbitMQ
 
-[Installation]()
+[Manual Installation](https://www.rabbitmq.com/install-windows-manual.html)
 
 [Server Configuration](https://www.rabbitmq.com/admin-guide.html)
 
