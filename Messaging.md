@@ -24,3 +24,16 @@
 [MSMQ](https://en.wikipedia.org/wiki/Microsoft_Message_Queuing)
 
 [Understanding MSMQ](https://technet.microsoft.com/en-us/library/cc770387(v=ws.11).aspx)
+
+[AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)
+
+
+### RabbitMQ
+
+[Installation]()
+
+[Server Configuration](https://www.rabbitmq.com/admin-guide.html)
+
+[Management Plugin](https://www.rabbitmq.com/management.html)
+
+[Cloud AMQP blog posts](https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
