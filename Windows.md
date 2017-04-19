@@ -116,7 +116,7 @@ http://www.codeproject.com/Articles/559385/Custom-Controls-in-Win32-API-The-Basi
 
 ### Tools
 
-Spy ++
+[Spy ++](https://msdn.microsoft.com/en-us/library/aa264374(v=vs.60).aspx)
 
 Dependency Walker
 
