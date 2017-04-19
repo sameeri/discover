@@ -31,6 +31,7 @@ https://en.wikipedia.org/wiki/Message_loop_in_Microsoft_Windows
 
 https://xavierantony.wordpress.com/2010/08/24/windows-messaging-architecture/
 
+[Windows is a message oriented OS](https://msdn.microsoft.com/en-us/library/0x0cx6b1.aspx)
 
 ### Windows API
 
