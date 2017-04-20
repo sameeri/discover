@@ -54,3 +54,9 @@
 [Customize Windows Environment variables](https://www.rabbitmq.com/configure.html#customise-windows-environment)
 
 [Cloud AMQP blog posts](https://www.cloudamqp.com/blog/2015-05-18-part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
+
+[RabbitMQ talk](http://www.rabbitmq.com/resources/google-tech-talk-final/google.html)
+
+[RabbitMQ talk - Alexis Richardson](http://www.rabbitmq.com/resources/google-tech-talk-final/alexis-google-rabbitmq-talk.pdf)
+
+
