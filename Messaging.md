@@ -25,7 +25,18 @@
 
 [Understanding MSMQ](https://technet.microsoft.com/en-us/library/cc770387(v=ws.11).aspx)
 
-[AMQP](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)
+
+### AMQP
+
+[AMQP 0.9.1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)
+
+[AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/amqp-core-complete-v1.0.pdf)
+
+[AMQP Packet Analysis](https://github.com/ChugR/Adverb)
+
+[AMQP workshop slides](http://www.omg.org/news/meetings/workshops/RT-2007/04-3_Pardo-Castellote-revised.pdf)
+
+[iMatix - Whats wrong with AMQP?](http://www.imatix.com/articles:whats-wrong-with-amqp/)
 
 
 ### RabbitMQ
