@@ -30,6 +30,8 @@
 
 [AMQP 0.9.1](https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf)
 
+[AMQP concepts - RabbitMQ](http://www.rabbitmq.com/tutorials/amqp-concepts.html)
+
 [AMQP 1.0](http://docs.oasis-open.org/amqp/core/v1.0/amqp-core-complete-v1.0.pdf)
 
 [AMQP Packet Analysis](https://github.com/ChugR/Adverb)
