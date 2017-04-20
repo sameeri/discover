@@ -36,6 +36,8 @@
 
 [AMQP workshop slides](http://www.omg.org/news/meetings/workshops/RT-2007/04-3_Pardo-Castellote-revised.pdf)
 
+[AMQP Essentials](https://dzone.com/refcardz/amqp-essentials)
+
 [iMatix - Whats wrong with AMQP?](http://www.imatix.com/articles:whats-wrong-with-amqp/)
 
 
