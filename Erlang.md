@@ -25,3 +25,6 @@ Saibaba Vinayakaya namaha! Saraswati devi
 [@kansi - Erlang Articles](https://medium.com/@kansi)
 
 [jLouis - Erlang](http://jlouisramblings.blogspot.com/search/label/erlang)
+
+[Intro to Programming in Erlang - 1](https://www.ibm.com/developerworks/opensource/library/os-erlang1/index.html)
+[Intro to Programming in Erlang - 2](https://www.ibm.com/developerworks/opensource/library/os-erlang2/index.html)
