@@ -18,3 +18,7 @@ Saibaba Vinayakaya namaha! Saraswati devi
 
 [How do Erlang processes work internally?](https://www.reddit.com/r/erlang/comments/4sogzb/how_do_erlang_microprocesses_work_internally/)
 
+[Why I chose Erlang?](http://erlang.org/pipermail/erlang-questions/2003-February/007030.html)
+
+[BEAM Wisdoms](https://media.readthedocs.org/pdf/beam-wisdoms/latest/beam-wisdoms.pdf)
+
