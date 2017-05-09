@@ -22,4 +22,6 @@ Saibaba Vinayakaya namaha! Saraswati devi
 
 [BEAM Wisdoms](https://media.readthedocs.org/pdf/beam-wisdoms/latest/beam-wisdoms.pdf)
 
-[Erlang Articles](https://medium.com/@kansi)
+[@kansi - Erlang Articles](https://medium.com/@kansi)
+
+[jLouis - Erlang](http://jlouisramblings.blogspot.com/search/label/erlang)
