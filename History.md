@@ -48,3 +48,11 @@ https://archive.org/details/bitsavers_ibm6502262truction_5334375
 http://www.piercefuller.com/collect/650man/index.html
 http://archive.computerhistory.org/resources/text/IBM/IBM.650.1955.102646125.pdf
 
+
+### MicroProgram
+
+1951 - MicroProgram https://en.wikipedia.org/wiki/Maurice_Wilkes
+
+### Operators & Operating System
+
+https://en.wikipedia.org/wiki/History_of_IBM_mainframe_operating_systems#FORTRAN_Monitor_System
