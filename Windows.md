@@ -33,6 +33,27 @@ https://xavierantony.wordpress.com/2010/08/24/windows-messaging-architecture/
 
 [Windows is a message oriented OS](https://msdn.microsoft.com/en-us/library/0x0cx6b1.aspx)
 
+http://flylib.com/books/en/4.453.1.76/1/
+
+https://www.microsoft.com/msj/0795/dilascia/dilascia.aspx
+
+http://edn.embarcadero.com/article/38447
+
+https://msdn.microsoft.com/en-us/library/aa383682.aspx
+
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms644928(v=vs.85).aspx
+
+http://www.winprog.org/tutorial/message_loop.html
+
+https://en.wikibooks.org/wiki/Windows_Programming/Message_Loop_Architecture
+
+http://parallel.vub.ac.be/education/modula2/technology/Win32_tutorial/message_loop.html
+
+http://www.drdobbs.com/windows/inside-the-windows-messaging-system/184408943
+
+https://stackoverflow.com/questions/2443867/message-pump-in-net-windows-service
+
+
 ### Windows API
 
 Application programs access the Windows API system functions to do things. Most of this is abstracted away by frameworks, but it is very import to understand the notion of the Windows API and the various services/functions it provides.
