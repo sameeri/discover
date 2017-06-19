@@ -18,3 +18,7 @@ http://www.allthingsdistributed.com/
 https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html
 
 https://github.com/brunohenrique/DistributedSystems
+
+http://aosabook.org/en/distsys.html
+
+http://www.enterpriseintegrationpatterns.com/
