@@ -2,31 +2,36 @@ Saibaba Vinayakaya Namaha! Saraswati devi
 
 ### Resources
 
-##### [Udacity]
+##### [Udacity](https://www.udacity.com/)
 
-##### [Pluralsight]
+##### [Pluralsight](https://www.pluralsight.com/)
 
-##### [Microsoft Virtual Academy]
+##### [Microsoft Virtual Academy](https://mva.microsoft.com/)
 
-##### [Egghead.io]
+##### [Egghead.io](https://egghead.io/)
 
-##### [Udemy]
+##### [Udemy](https://www.udemy.com/)
 
-##### [Packt]()
+##### [Packt](https://www.packtpub.com/)
 
-##### [OReilly]()
+##### [OReilly](https://www.oreilly.com/)
 
-##### [Coursera]
+##### [Coursera](https://www.coursera.org/)
 
-##### [edX]
+##### [edX](https://www.edx.org/)
 
 ##### [Future Learn](https://www.futurelearn.com/)
 
-##### [Khan Academy]
+##### [Khan Academy](https://www.khanacademy.org/)
 
-##### [Ted]
+##### [Ted](https://www.ted.com/)
 
-##### [Youtube]
+##### [Youtube](https://www.youtube.com/)
 
-##### [The Great Courses]
+##### [The Great Courses](https://www.thegreatcourses.com/)
 
+##### [Future Learn](https://www.futurelearn.com/)
+
+##### [Alison Courses](https://alison.com/)
+
+##### [Cognitive Class AI](https://cognitiveclass.ai)
